@@ -6,7 +6,8 @@ This project aims to create a **complete school management system** that covers 
 ### 1. Attendance and Access Control at the School Gate
 Using AI and embedded systems, the system identifies attendance at the school gate. Recognized individuals are automatically logged, and the gate opens for them. If an **unrecognized person** is detected, a notification is sent to supervisors like **Mr. Mohamed Adly** or **Mr. Ahmed Fouad** to decide whether to allow entry.
 
-![Attendance System](./DALL·E_2024-10-11_05.50.01.webp)
+![Attendance System](./DALL-E_2024-10-11_05.50.01.webp)
+
 
 
 ### 2. Student Assistance System
