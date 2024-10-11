@@ -1,7 +1,3 @@
-# Team-1
-intern DifAllah 
-
-
 # Automated Attendance System
 
 ## Project Overview
@@ -10,15 +6,17 @@ This project aims to create a **complete school management system** that covers 
 ### 1. Attendance and Access Control at the School Gate
 Using AI and embedded systems, the system identifies attendance at the school gate. Recognized individuals are automatically logged, and the gate opens for them. If an **unrecognized person** is detected, a notification is sent to supervisors like **Mr. Mohamed Adly** or **Mr. Ahmed Fouad** to decide whether to allow entry.
 
-![Attendance System](https://link_to_attendance_image)
+![Attendance System](./path_to_image/A_high-tech_school_gate_with_a_camera_and_AI_syste.png)
 
 ### 2. Student Assistance System
 This module helps students with school-related questions without needing to approach school supervisors, thus reducing interruptions in their workflow.
 
+![Chatbot System](./path_to_image/A_virtual_AI-powered_chatbot_system_helping_studen.png)
+
 ### 3. Substitute Class Management System
 Mr. **Ahmed Fouad**, the scheduling expert, uses this system to manage substitute classes. Teachers are notified of substitute classes and reminded of their sessions to prevent delays. Additionally, the system automatically rings the school bell for each class and break.
 
-![Class Management System](https://link_to_class_management_image)
+![Class Management System](./path_to_image/A_web-based_class_management_system_showing_a_time.png)
 
 ---
 
@@ -36,8 +34,6 @@ Mr. **Ahmed Fouad**, the scheduling expert, uses this system to manage substitut
 
 📅 **Deployment:** End of Sprint 1
 
-![Raspberry Pi System](https://link_to_raspberry_pi_image)
-
 ---
 
 ### Sprint 2: Chatbot System (13 Days)
@@ -51,8 +47,6 @@ Mr. **Ahmed Fouad**, the scheduling expert, uses this system to manage substitut
 
 📅 **Deployment:** End of Sprint 2
 
-![Chatbot System](https://link_to_chatbot_image)
-
 ---
 
 ### Sprint 3: Web-Based Substitute Class Management (15 Days)
@@ -65,63 +59,13 @@ Mr. **Ahmed Fouad**, the scheduling expert, uses this system to manage substitut
 
 📅 **Deployment:** End of Sprint 3
 
-![Web Interface](https://link_to_web_interface_image)
-
----
-
-## Requirements
-
-### Python Libraries:
-- OpenCV (`cv2`)
-- TensorFlow
-- Keras
-- NumPy
-- Pandas
-- Time
-- SMS
-- Matplotlib
-- UltraLatex
-- Signal
-- Base64
-- Datetime
-- RPi.GPIO
-- Requests
-
-### Hardware Components:
-- **Raspberry Pi 3**
-- **Arduino Mega**
-- Wires
-- Speakers
-- Microphones
-- Cameras
-- Automatic Door (if available)
-
----
-
-## How to Run the Project
-
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/username/repo-name.git
-    ```
-2. Install the required Python libraries:
-    ```bash
-    pip install -r requirements.txt
-    ```
-3. Run the main script:
-    ```bash
-    python main.py
-    ```
-
 ---
 
 ## Contributors
-- **Abdullah** (Lead Developer)
 - **Mohamed Adly** (Supervisor)
 - **Ahmed Fouad** (Scheduler)
-
----
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
+- **Mohand Sayed** (Contributor)
+- **Abdallah Essam** (Contributor)
+- **Ziad Aymen** (Contributor)
+- **Amgad Khaled** (Contributor)
+- **Shaza Mohamed** (Contributor)
