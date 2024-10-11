@@ -10,6 +10,7 @@ Using AI and embedded systems, the system identifies attendance at the school ga
 
 
 
+
 ### 2. Student Assistance System
 This module helps students with school-related questions without needing to approach school supervisors, thus reducing interruptions in their workflow.
 
